@@ -1,4 +1,4 @@
-## Complete Tesla Roadster Website Clone
+## Complete Tesla Roadster Landing Page
 
 ### Main window
 
